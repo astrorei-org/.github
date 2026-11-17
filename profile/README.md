@@ -1,17 +1,32 @@
-# astrorei :rocket:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <img alt="Astrorei — When software matters" src="banner-light.png">
+</picture>
 
-🇮🇹
+**We build, scale and rescue the software your business runs on.**
 
-When software matters!
+There comes a point when software stops being a technical problem and becomes the company's problem. That's when they call us.
 
-- 🧑‍🤝‍🧑 Vuoi unirti a noi? Non perderti le nostre [offerte di lavoro](https://www.astrorei.it/it/azienda/lavora-con-noi/)
-- 🚀 Scopri chi siamo, la nostra storia e ciò che ci guida sul nostro [sito](https://astrorei.it/it/azienda/)
-- 📖 Vuoi saperne di più? Approfondisci nel nostro [blog](https://astrorei.it/it/publications/)
+- **[Build](https://astrorei.it/en/solutions/build)** — There is something that has to exist and a date by which it has to exist. Nothing exists yet.
+- **[Scale](https://astrorei.it/en/solutions/scale)** — The product works and users are growing. Now it has to handle real load.
+- **[Rescue](https://astrorei.it/en/solutions/rescue)** — It is in production and serves customers, but it has problems nobody has been able to fix, and every intervention risks creating new ones.
 
-🇬🇧
+We founders still work on client projects in person, from architecture to day-to-day decisions. Code and servers remain yours: no lock-in.
 
-When software matters!
+[Website](https://astrorei.it/en) · [Case studies](https://astrorei.it/en/case-studies) · [Publications](https://astrorei.it/en/publications) · [Open positions](https://astrorei.it/en/company/careers/positions) · [Contact](https://astrorei.it/en/contact)
 
-- 🧑‍🤝‍🧑 Willing to join us? Don't miss our [job opportunities](https://www.astrorei.it/en/company/careers/)
-- 🚀 Discover who we are, our story and what guides us on our [website](https://astrorei.it/en/company/)
-- 📖 Want to know more? Read our [blog](https://astrorei.it/en/publications/)
+---
+
+**Costruiamo, scaliamo e recuperiamo il software su cui si regge la tua azienda.**
+
+C'è un momento in cui il software smette di essere un problema tecnico e diventa il problema dell'azienda. È lì che ci chiamano.
+
+- **[Build](https://astrorei.it/it/soluzioni/build)** — C'è una cosa che deve esistere e una data entro cui deve esistere. Non esiste ancora niente.
+- **[Scale](https://astrorei.it/it/soluzioni/scale)** — Il prodotto funziona e gli utenti crescono. Adesso deve reggere il carico vero.
+- **[Rescue](https://astrorei.it/it/soluzioni/rescue)** — È in produzione e serve i clienti, ma ha problemi che nessuno riesce a risolvere e ogni intervento rischia di crearne di nuovi.
+
+I progetti dei clienti li seguiamo ancora noi fondatori, in prima persona, dall'architettura alle decisioni di ogni giorno. Codice e server restano tuoi: nessun lock-in.
+
+[Sito](https://astrorei.it/it) · [Casi studio](https://astrorei.it/it/casi-studio) · [Pubblicazioni](https://astrorei.it/it/publications) · [Posizioni aperte](https://astrorei.it/it/azienda/lavora-con-noi/posizioni) · [Contatti](https://astrorei.it/it/contatti)
+
+info@astrorei.it
