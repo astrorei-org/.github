@@ -1,4 +1,7 @@
-# Astrorei
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <img alt="Astrorei — When software matters" src="banner-light.png">
+</picture>
 
 **We build, scale and rescue the software your business runs on.**
 
